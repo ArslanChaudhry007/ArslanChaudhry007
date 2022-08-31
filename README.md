@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArslanChaudhry007?tab=repositories](https://github.com/ArslanChaudhry007?tab=repositories)
 
-- 📝 I regularly write articles on [Android and Flutter](Android and Flutter)
+- 📝 I regularly write articles on [Android and Flutter]
 
 - 📫 How to reach me **arslanch585@gmail.com**
 
